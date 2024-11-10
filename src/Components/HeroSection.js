@@ -19,7 +19,7 @@ const HeroSection = ({myData}) => {
 Your new BMW is within reach. All you need is the perfect financial solution with tailor-made finance options.
             </p>
             <NavLink to="/products">
-              <Button>show now</Button>
+              <Button>show now More</Button>
             </NavLink>
           </div>
           {/* our homepage image  */}
