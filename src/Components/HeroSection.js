@@ -15,8 +15,7 @@ const HeroSection = ({myData}) => {
             <p className="intro-data">Welcome to </p>
             <h1> {name} </h1>
             <p>
-            BMW & AudiFINANCIAL SERVICES.
-The way to your new BMW – straight forward.
+            BMW The way to your new BMW – straight forward.
 Your new BMW is within reach. All you need is the perfect financial solution with tailor-made finance options.
             </p>
             <NavLink to="/products">
