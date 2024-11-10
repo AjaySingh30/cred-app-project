@@ -11,7 +11,7 @@ const Footer = () => {
         <section className="contact-short">
           <div className="grid grid-two-column">
             <div>
-              <h3>Ready to get set go and started?</h3>
+              <h3>Ready to get set go</h3>
               <h3>Talk to us </h3>
             </div>
 
